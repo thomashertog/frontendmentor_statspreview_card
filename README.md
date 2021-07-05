@@ -1,0 +1,1 @@
+#frontendmentor_statspreview_card
